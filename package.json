@@ -1,5 +1,6 @@
 {
   "name": "customer_search",
+  "homepage": "http://naparstech.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
